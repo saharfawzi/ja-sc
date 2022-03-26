@@ -1,0 +1,2 @@
+# ja-sc
+JavaScript
