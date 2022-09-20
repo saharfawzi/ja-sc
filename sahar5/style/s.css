@@ -1,0 +1,10 @@
+
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ebbcd9;
+   
+}
+.pro1{
+    display: flex;
+}
